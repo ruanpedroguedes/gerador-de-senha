@@ -1,0 +1,22 @@
+
+body{
+ background-color:rgb(70, 55, 234) ;
+}
+
+h1{
+ text-align: center;
+}
+
+input{
+  margin: 15px;
+}
+
+.gerar-senha{
+  background-color: rgba(22, 46, 201, 0.618);
+  border: none;
+  width: 170px;
+  height: 50px;
+  border-radius: 6px;
+  margin: 20px auto;
+}
+
